@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Overview",
+    "path": "",
+    "filePath": "sample-content-dir/index.mdx"
+  },
+  {
+    "title": "VMWare ISO",
+    "path": "iso",
+    "filePath": "sample-content-dir/iso.mdx"
+  },
+  {
+    "title": "VMWare VMX",
+    "path": "vmx",
+    "filePath": "sample-content-dir/vmx.mdx"
+  },
+  {
+    "title": "VSphere",
+    "routes": [
+      {
+        "title": "VSphere ISO",
+        "path": "vsphere/vsphere-iso",
+        "filePath": "sample-content-dir/vsphere/vsphere-iso.mdx"
+      },
+      {
+        "title": "VSphere Clone",
+        "path": "vsphere/vsphere-clone",
+        "filePath": "sample-content-dir/vsphere/vsphere-clone.mdx"
+      }
+    ]
+  }
+]
